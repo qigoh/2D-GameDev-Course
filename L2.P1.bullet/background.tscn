@@ -1,6 +1,6 @@
-[gd_scene load_steps=2 format=3]
+[gd_scene load_steps=2 format=3 uid="uid://cr3uluqjliywu"]
 
-[ext_resource type="Texture2D" path="res://assets/practice_assets/ellipse_yellow.png" id="1_h65s3"]
+[ext_resource type="Texture2D" uid="uid://ci5b253al1tus" path="res://assets/practice_assets/ellipse_yellow.png" id="1_h65s3"]
 
 [node name="Background" type="Node"]
 
