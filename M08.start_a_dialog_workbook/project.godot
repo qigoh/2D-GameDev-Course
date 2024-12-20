@@ -1,0 +1,18 @@
+config_version=5
+
+[application]
+
+config/name="M08. Start a Dialogue (Workbook)"
+config/features=PackedStringArray("4.3")
+config/icon="res://icon_start_a_dialog.png"
+config/tags=PackedStringArray("workbook")
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/stretch/mode="viewport"
+
+[editor]
+
+movie_writer/movie_file="/home/xananax/GDQuest/learn-2d-gamedev-godot-4/godot_projects/M07.telling_a_story/demo.avi"
