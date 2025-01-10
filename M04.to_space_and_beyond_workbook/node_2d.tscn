@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://qy6kik6sixbh"]
+
+[ext_resource type="Script" path="res://assets/background/space_background.gd" id="1_pf6ly"]
+[ext_resource type="PackedScene" uid="uid://bxfevggvxo634" path="res://assets/background/space_background.tscn" id="2_bojy8"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_pf6ly")
+
+[node name="SpaceBackground" parent="." instance=ExtResource("2_bojy8")]
